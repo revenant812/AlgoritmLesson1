@@ -1,0 +1,16 @@
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.exe
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.deps.json
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.runtimeconfig.json
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.dll
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\ref\L1W2.dll
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\bin\Debug\net5.0\L1W2.pdb
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.dll
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\ref\L1W2.dll
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.pdb
+C:\Users\Дима\Desktop\Lesson2.1\L1W2\L1W2\obj\Debug\net5.0\L1W2.genruntimeconfig.cache
